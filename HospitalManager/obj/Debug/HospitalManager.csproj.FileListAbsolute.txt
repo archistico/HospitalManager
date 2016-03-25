@@ -1,0 +1,14 @@
+D:\Programmazione\00Github\HospitalManager\HospitalManager\bin\Debug\HospitalManager.exe.config
+D:\Programmazione\00Github\HospitalManager\HospitalManager\bin\Debug\HospitalManager.exe
+D:\Programmazione\00Github\HospitalManager\HospitalManager\bin\Debug\HospitalManager.pdb
+D:\Programmazione\00Github\HospitalManager\HospitalManager\obj\Debug\HospitalManager.csprojResolveAssemblyReference.cache
+D:\Programmazione\00Github\HospitalManager\HospitalManager\obj\Debug\MainWindow.g.cs
+D:\Programmazione\00Github\HospitalManager\HospitalManager\obj\Debug\App.g.cs
+D:\Programmazione\00Github\HospitalManager\HospitalManager\obj\Debug\HospitalManager_MarkupCompile.cache
+D:\Programmazione\00Github\HospitalManager\HospitalManager\obj\Debug\HospitalManager_MarkupCompile.lref
+D:\Programmazione\00Github\HospitalManager\HospitalManager\obj\Debug\MainWindow.baml
+D:\Programmazione\00Github\HospitalManager\HospitalManager\obj\Debug\HospitalManager.g.resources
+D:\Programmazione\00Github\HospitalManager\HospitalManager\obj\Debug\HospitalManager.Properties.Resources.resources
+D:\Programmazione\00Github\HospitalManager\HospitalManager\obj\Debug\HospitalManager.csproj.GenerateResource.Cache
+D:\Programmazione\00Github\HospitalManager\HospitalManager\obj\Debug\HospitalManager.exe
+D:\Programmazione\00Github\HospitalManager\HospitalManager\obj\Debug\HospitalManager.pdb
